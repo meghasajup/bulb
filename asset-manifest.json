@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bulb/static/css/main.3e96eb6c.css",
+    "main.js": "/bulb/static/js/main.2f8c958b.js",
+    "static/media/on.png": "/bulb/static/media/on.c15b443bd972b44a12cf.png",
+    "static/media/off.png": "/bulb/static/media/off.d7af0716b81761230787.png",
+    "index.html": "/bulb/index.html",
+    "main.3e96eb6c.css.map": "/bulb/static/css/main.3e96eb6c.css.map",
+    "main.2f8c958b.js.map": "/bulb/static/js/main.2f8c958b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e96eb6c.css",
+    "static/js/main.2f8c958b.js"
+  ]
+}
